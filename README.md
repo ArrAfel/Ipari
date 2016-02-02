@@ -1,0 +1,2 @@
+# Ipari
+Ipari Képfeldolgozás kötprog
